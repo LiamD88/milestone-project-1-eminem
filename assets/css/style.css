@@ -1,8 +1,17 @@
-/* Navbar */
+/* colors */
 
-.navbarbackground {
+.bg-color-navbar {
     background-color: #000000;
 }
+
+.bg-color-emtext {
+    background-color: #000000;
+}
+
+
+
+
+/* Navbar */
 
 .navfont {
     color: #FFFFFF;
@@ -13,9 +22,16 @@
 .hero-image {
     background-image: url('../images/hero-image.jpg');
     background-size: cover;
-    background-position: center center;
+    background-position: center;
     width: 100%;
-    height: 100vh;
+    height: 70vh;
+}
+
+/* eminem text */
+
+.em-text {
+    color: #FFFFFF;
+    
 }
 
 /* footer */
