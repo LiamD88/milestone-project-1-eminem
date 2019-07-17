@@ -1,4 +1,4 @@
-/* colors */
+/* background colors */
 
 .bg-color-navbar {
     background-color: #000000;
@@ -8,8 +8,9 @@
     background-color: #000000;
 }
 
-
-
+.bg-color-lyrics {
+    background-color: #000000;
+}
 
 /* Navbar */
 
@@ -17,7 +18,7 @@
     color: #FFFFFF;
 } 
 
-/* stageimage */
+/* heroimage */
 
 .hero-image {
     background-image: url('../images/hero-image.jpg');
@@ -33,6 +34,13 @@
     color: #FFFFFF;
     
 }
+
+/* lyrics text */
+
+.lyrics-text {
+    color: #FFFFFF;
+}
+
 
 /* footer */
 
