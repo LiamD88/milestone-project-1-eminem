@@ -77,14 +77,23 @@ footer {
     background-color: #000000;
 }
 
-/* media queries */
+.social-links {
+    padding-top: 50px;
+    padding-left: 280x;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
 
-@media (max-width: 576px) {
-    .no-lyric {
-        display: none;
-    }
-    .lyric-pos {
-        text-align: center;
-    }
+.social-links li a i {
+    padding-left: 10px;
+    color: #FFFFFF;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: #8B0000;
 }
 
