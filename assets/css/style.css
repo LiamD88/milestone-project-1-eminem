@@ -28,7 +28,7 @@
     height: 70vh;
 }
 
-/* eminem text */
+/* eminem text in center screen */
 
 .em-text {
     color: #FFFFFF;
@@ -41,9 +41,50 @@
     color: #FFFFFF;
 }
 
+.fade {
+    animation-name: fadein;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;    
+
+}
+
+.fade-2 {
+    animation-name: fadein;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;    
+
+}
+
+/* keyframes */
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
 
 /* footer */
 
 footer {
     background-color: #000000;
 }
+
+/* media queries */
+
+@media (max-width: 576px) {
+    .no-lyric {
+        display: none;
+    }
+    .lyric-pos {
+        text-align: center;
+    }
+}
+
