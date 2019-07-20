@@ -20,6 +20,10 @@
     background-color: #000000;
 }
 
+.bg-discog {
+    background-color: #000000;
+}
+
 /* Navbar */
 
 .navfont {
@@ -49,20 +53,11 @@
     background-position: center;
     width: 100%;
     height: 70vh;
-}
-
-/* bio-image*/
-
-.bio-image {
-    background-image: url('../images/bio-image.jpg');
-    background-size: 350px 350px;
-    background-repeat: no-repeat;
-    background-position: right;
-    height: 45vh;
     }
 
 
 
+/* text colors */
 
 /* eminem text in center screen */
 
@@ -74,7 +69,7 @@
 /* biograpghy text */
 
 .bio-header {
-    color: #FFFFFF
+    color: #FFFFFF;
 }
 
 .bio-paragraph {
@@ -105,6 +100,14 @@
 
 }
 
+/* music page text */
+
+.discog-text {
+    color: #FFFFFF;
+}
+
+
+
 /* keyframes */
 
 @keyframes fadein {
@@ -125,7 +128,7 @@ footer {
 
 .social-links {
     padding-top: 50px;
-    padding-left: 280x;
+    padding-left: 280px;
     font-size: 25px;
     letter-spacing: 3px;
 }
