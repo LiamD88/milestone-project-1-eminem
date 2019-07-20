@@ -12,11 +12,34 @@
     background-color: #000000;
 }
 
+.bg-bio-heading {
+    background-color: #000000;
+}
+
+.bg-bio {
+    background-color: #000000;
+}
+
 /* Navbar */
 
 .navfont {
     color: #FFFFFF;
 } 
+
+.collapse ul li a {
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.collapse ul li a:hover {
+    color: #8B0000;
+
+}
+
+/* images */
+
 
 /* heroimage */
 
@@ -28,11 +51,34 @@
     height: 70vh;
 }
 
+/* bio-image*/
+
+.bio-image {
+    background-image: url('../images/bio-image.jpg');
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 45vh;
+    }
+
+
+
+
 /* eminem text in center screen */
 
 .em-text {
     color: #FFFFFF;
     
+}
+
+/* biograpghy text */
+
+.bio-header {
+    color: #FFFFFF
+}
+
+.bio-paragraph {
+    color: #FFFFFF;
 }
 
 /* lyrics text */
@@ -96,4 +142,3 @@ footer {
 .social-links li a i:hover {
     color: #8B0000;
 }
-
