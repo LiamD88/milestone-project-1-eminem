@@ -27,6 +27,9 @@
 .bg-comp {
     background-color: #000000;
 }
+.bg-tour {
+    background-color: #000000;
+}
 
 /* Navbar */
 
@@ -58,6 +61,19 @@
     width: 100%;
     height: 70vh;
     }
+
+.tour-image-1 {
+    width: 100%;
+    height: 60%;
+
+
+}
+.tour-image-2 {
+    width: 80%;
+    height: 60%;
+
+
+}
 
 
 
@@ -116,11 +132,11 @@
     color: #FFFFFF;
 }
 
-/* competiton page forms */
-
-.comp-form {
-    width: 60%;
+.tour-text {
+    color: #FFFFFF;
 }
+
+/* competiton page forms */
 
 /* keyframes */
 
