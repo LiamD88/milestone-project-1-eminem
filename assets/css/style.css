@@ -23,6 +23,7 @@
 .bg-comp {
     background-color: #000000;
 }
+
 .bg-tour {
     background-color: #000000;
 }
@@ -35,7 +36,7 @@
 
 .navfont {
     color: #FFFFFF;
-} 
+}
 
 .collapse ul li a {
     transition: all 0.35s ease-in-out;
@@ -51,7 +52,6 @@
 
 /* images */
 
-
 /* heroimage */
 
 .hero-image {
@@ -60,7 +60,7 @@
     background-position: center;
     width: 100%;
     height: 70vh;
-    }
+}
 
 .tour-image-1 {
     width: 90%;
@@ -68,6 +68,7 @@
 
 
 }
+
 .tour-image-2 {
     width: 90%;
     height: 90%;
@@ -81,6 +82,7 @@
 
 
 }
+
 .tour-image-4 {
     width: 90%;
     height: 90%;
@@ -95,7 +97,7 @@
 
 .em-text {
     color: #FFFFFF;
-    
+
 }
 
 /* biograpghy text */
@@ -119,7 +121,7 @@
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-direction: alternate;    
+    animation-direction: alternate;
 
 }
 
@@ -128,15 +130,16 @@
     animation-duration: 10s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-direction: alternate;    
+    animation-direction: alternate;
 
 }
 
 /* music page text */
 
-.discog-text {
+.music-text {
     color: #FFFFFF;
 }
+
 
 /* competition page text */
 
