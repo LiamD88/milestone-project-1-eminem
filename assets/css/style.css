@@ -24,6 +24,10 @@
     background-color: #000000;
 }
 
+.bg-comp {
+    background-color: #000000;
+}
+
 /* Navbar */
 
 .navfont {
@@ -106,7 +110,17 @@
     color: #FFFFFF;
 }
 
+/* competition page text */
 
+.comp-text {
+    color: #FFFFFF;
+}
+
+/* competiton page forms */
+
+.comp-form {
+    width: 60%;
+}
 
 /* keyframes */
 
