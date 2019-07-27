@@ -117,8 +117,20 @@
 
 }
 
+.comp-image {
+    width: 100%;
+    height: auto;
+       
+}
 
+.comp-pad {
+    padding-left: 0;
+    padding-right: 0;
+}
 
+.bio-image {
+    opacity: 0.8;
+}
 
 /* text colors */
 
