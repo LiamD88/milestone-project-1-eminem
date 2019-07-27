@@ -59,12 +59,15 @@
 /* music page elements */
 
 .discog {
-    width:60%;
-    height: 50%;
+    width:45%;
+    height: 45%;
     margin-left: auto;
     margin-right: auto;
 }
 
+.video {
+    padding:0;
+}
 
 
 /* images */
