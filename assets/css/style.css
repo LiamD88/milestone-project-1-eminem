@@ -1,9 +1,5 @@
 /* background colors */
 
-.bg-color-navbar {
-    background-color: #000000;
-}
-
 .bg-color-emtext {
     background-color: #000000;
 }
@@ -38,6 +34,10 @@
     background-color: #000000!important;
 }
 
+.nav-item.active .nav-link.navfont {
+    color: #8B0000;
+}
+
 .navfont {
     color: #FFFFFF;
 }
@@ -50,9 +50,11 @@
 }
 
 .collapse ul li a:hover {
-    color: #8B0000;
+    color: #8B0000!important;
 
 }
+
+
 
 /* music page elements */
 
