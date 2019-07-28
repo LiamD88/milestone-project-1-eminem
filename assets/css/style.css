@@ -76,7 +76,7 @@
 
 /* music page elements */
 
-.disco {
+.discog {
     width:45%;
     height: 45%;
     margin-left: auto;
@@ -92,7 +92,7 @@
     
     .carousel img {
         -o-object-fit: contain;
-        object-fit: contain;
+        object-fit:cover contain;
         height: 600px;
         min-width: 100%;
         max-width: none;
