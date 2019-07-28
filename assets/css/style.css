@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
+
 /* background colors */
 
 .bg-color-emtext {
@@ -88,10 +90,11 @@
 
 /* images */
 .tour-size {
-    height: 390px;
+    height: 350px;
     overflow: hidden;
     width: 100%;
     }
+    
 /* heroimage */
 
 .hero-image {
@@ -131,6 +134,7 @@
 
 .bio-paragraph {
     color: #FFFFFF;
+    font-family: 'Overpass', sans-serif;
 }
 
 /* lyrics text */
@@ -165,12 +169,14 @@
 
 .music-text-2 {
     color: #000000;
+    font-family: 'Overpass', sans-serif;
 }
 
 /* competition page text */
 
 .comp-text {
     color: #FFFFFF;
+    font-family: 'Overpass', sans-serif;
 }
 
 .tour-text {
@@ -179,6 +185,7 @@
 
 .tour-text-2 {
     color: #000000;
+    font-family: 'Overpass', sans-serif;
 }
 
 /* keyframes */
