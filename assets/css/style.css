@@ -28,8 +28,8 @@
     background-color: #000000;
 }
 
-.bg-music-2 {
-    background-color: #252525;
+.bg-bottom-2 {
+    background-color: #9a9999;
 }
 
 
@@ -181,6 +181,9 @@
     color: #FFFFFF;
 }
 
+.music-text-2 {
+    color: #000000;
+}
 
 /* competition page text */
 
