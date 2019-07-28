@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!--below is the head this contains the link for the bootstrap CDN'S to allow us to use the bootstrap grid,
+to use the font awesome icons for my footer, the hover cdn to highlight when I hover over the font awesome icons and also the link snippet for my own CSS-->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +16,8 @@
 <body>
 
     <header>
-        <!--"navbar"-->
+        <!--"navbar taken from bootstrap documentation added the navbar-dark and bg-dark for a black background, 
+          I also changed the active class on each list item to coincide with the current page and added a class to highlight it red to show you are on this page"-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,7 +54,9 @@
             </div>
         </div>
 
-        <!--"this is the photos section for the tour page with 4 carousels"-->
+        <!--this is the photos section for the tour page with 4 carousels, they are displayed on top of each other on mobile devices and 
+          they will be on 2 seperate rows and 2 carousels side by side on medium devices and up again keeping in line with the music page for good user
+          experience-->
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 col-md-6 bg-tour">
@@ -166,7 +170,9 @@
             </div>
         </div>
     </section>
-        <!--"this is the section for upcoming tour dates"-->
+        <!--this is the section for upcoming tour dates I created a unordered list as I wanted them to display in bullet points
+            again classes where added to change the background colour for the container and the colour of the text
+          The colour of backgrounds and text where changed to highlight the new section-->
         <section>
         <div class="container-fluid bg-bottom-2">
             <div class="row">
@@ -205,7 +211,8 @@
             </div>
         </div>
 
-        <!--"this is the section where people can apply for when presale tickets become available"-->
+        <!--"this is the section where people can apply for when presale tickets become available
+          form was taken from bootstrap again the same classes where added as I had in the above to change the colours"-->
 
 
 
@@ -238,7 +245,8 @@
         </div>
     </div>
     </section>
-    <!--footer begins here-->
+    <!--footer begins here, the footer code is taken from the resume project, I changed the highlight colours
+    I also only used the icons and links that would relate to this project-->
     <footer>
         <div class="container-fluid">
             <div class="row">
@@ -275,7 +283,7 @@
 
 
     </footer>
-
+ <!--bootstrap jquery CDN, this is added so that plugins like modals etc can work correctly without having to add my own javascript-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>

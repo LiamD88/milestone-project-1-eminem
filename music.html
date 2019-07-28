@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!--below is the head this contains the link for the bootstrap CDN'S to allow us to use the bootstrap grid,
+to use the font awesome icons for my footer, the hover cdn to highlight when I hover over the font awesome icons and also the link snippet for my own CSS-->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +16,8 @@
 <body>
 
     <header>
-        <!--"navbar"-->
+         <!--"navbar taken from bootstrap documentation added the navbar-dark and bg-dark for a black background, 
+            I also changed the active class on each list item to coincide with the current page and added a class to highlight it red to show you are on this page"-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,7 +46,8 @@
     </header>
 
     <section>
-        <!--"this is the heading at top of the page which has the discography wording in here "-->
+        <!--this is the heading at top of the page which has the discography wording in here classes added for background colour
+        and text colour-->
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 bg-music">
@@ -53,7 +56,9 @@
             </div>
         </div>
 
-        <!--"carousel starts here that has the eminem album pictures displayed in it for the discography"-->
+        <!--"carousel starts here that has the eminem album pictures displayed in it for the discography
+            I used the image tag for each carousel slide, I also added the discog class to the carousel div to resize the carousel
+            and to place it in the middle at the top of the page, i did not want it the full width as this looks much cleaner"-->
 
         <div class="container-fluid">
             <div class="row">
@@ -155,7 +160,8 @@
             </div>
         </div>
 
-        <!--"this is where the videos begin for music-->
+        <!--"this is the start of the video section, i took 4 youtube videos and added the embedded code in from youtube.
+        they are set to display 2 videos side by side on medium screen sizes and larger, will be on top of each other in mobile devices-->
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 video">
@@ -192,7 +198,9 @@
             </div>
         </div>
     </section>
-        <!--"this is where the music players are displayed"-->
+        <!--"this bottom section contains 4 songs that can be played again 4 songs to follow the UX of the 4 youtube videos
+            again they are set up to display side by side on medium screens and up, on top of each other on mobile devices.
+            classes added to change the font colour and style, some padding added to the below heading music text to push it down a little bit further"-->
         <section>
         <div class="container-fluid">
             <div class="row">
@@ -241,7 +249,8 @@
         </div>
 
     </section>
-    <!--footer begins here-->
+     <!--footer begins here, the footer code is taken from the resume project, I changed the highlight colours
+    I also only used the icons and links that would relate to this project-->
     <footer>
         <div class="container-fluid">
             <div class="row">
@@ -278,7 +287,7 @@
 
 
     </footer>
-
+ <!--bootstrap jquery CDN, this is added so that plugins like modals etc can work correctly without having to add my own javascript-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
