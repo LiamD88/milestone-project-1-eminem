@@ -32,6 +32,11 @@
     background-color: #9a9999;
 }
 
+/* padding elements */
+
+.music-text-pad {
+    padding-top: 25px;
+}
 
 
 /* Navbar */
