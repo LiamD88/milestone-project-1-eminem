@@ -90,15 +90,8 @@
 
 /* images */
     
-    .carousel img {
-        -o-object-fit: contain;
-        object-fit:cover contain;
-        height: 600px;
-        min-width: 100%;
-        max-width: none;
-        
-    }
- 
+
+
 
 /* heroimage */
 
