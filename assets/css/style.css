@@ -29,13 +29,17 @@
 }
 
 .bg-bottom-2 {
-    background-color: #9a9999;
+    background-color: #656363;
 }
 
 
 /* padding elements */
 
 .music-text-pad {
+    padding-top: 25px;
+}
+
+.tour-text-pad {
     padding-top: 25px;
 }
 
