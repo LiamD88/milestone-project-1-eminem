@@ -2,35 +2,12 @@
 
 /* background colors */
 
-.bg-color-emtext {
+.bg-main {
     background-color: #000000;
 }
 
-.bg-color-lyrics {
-    background-color: #000000;
-}
 
-.bg-bio-heading {
-    background-color: #000000;
-}
-
-.bg-bio {
-    background-color: #000000;
-}
-
-.bg-comp {
-    background-color: #000000;
-}
-
-.bg-tour {
-    background-color: #000000;
-}
-
-.bg-music {
-    background-color: #000000;
-}
-
-.bg-bottom-2 {
+.bg-bottom {
     background-color: #656363;
 }
 
@@ -90,8 +67,6 @@
 
 /* images */
     
-
-
 
 /* heroimage */
 
@@ -181,11 +156,8 @@
     font-family: 'Overpass', sans-serif;
 }
 
-.tour-text {
-    color: #FFFFFF;
-}
 
-.tour-text-2 {
+.tour-text {
     color: #000000;
     font-family: 'Overpass', sans-serif;
 }
