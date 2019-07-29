@@ -27,18 +27,18 @@ Competition page has a large image when you land of eminem with his fingers up, 
 
 Find below links for each wireframe, broken into each device mobile, tablet and desktop.
 
-* [Home Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-mobile-wireframe.png) 
-[Home Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-ipad-wireframe.png)
+* [Home Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-mobile-wireframe.png)/ 
+[Home Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-ipad-wireframe.png)/
 [Home Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-desktop-wireframe.png)
-* [Bio Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/bio-mobile-wireframe.png)
-[Bio Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/bio-ipad-wireframe.png)
+* [Bio Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/bio-mobile-wireframe.png)/
+[Bio Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/bio-ipad-wireframe.png)/
 [Bio Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/bio-desktop-wireframe.png)
-* [Music Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-page-mobile-wireframe.png)
-[Music Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-ipad-wireframe.png)
+* [Music Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-page-mobile-wireframe.png)/
+[Music Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-ipad-wireframe.png)/
 [Music Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-desktop-wireframe.png)
-* [Tour Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/tour-page-mobile-wireframe.png)
-[Tour Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/tour-page-ipad-wireframe.png)
+* [Tour Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/tour-page-mobile-wireframe.png)/
+[Tour Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/tour-page-ipad-wireframe.png)/
 [Tour Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/tour-page-desktop-wireframe.png)
-* [Competition Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-mobile-wireframe.png)
-[Competition Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-ipad-wireframe.png)
-[Competition Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/competition-desktop-wireframe.png)
+* [Competition Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-mobile-wireframe.png)/
+[Competition Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-ipad-wireframe.png)/
+[Competition Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-desktop-wireframe.png)
