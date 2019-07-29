@@ -22,10 +22,24 @@ Tour page has same navbar and social links and has 4 carousels at the top of the
 
 Competition page has a large image when you land of eminem with his fingers up, synomonous with this artist and his image for both new and hardcore fans. Placed on the final page almost as if goodbye and keep in tow with the home page being very minimal. The bottom half again has just another form to fill in to allow you to apply and win tickets to see the artist again more interaction. Same navbar and social links.
 
+## User Stories
+
+The website is aimed at eminem fans as a fanpage to cater for both new, old and extreme fans different user stories listed below.
+
+1. As a huge eminem fan I appreciate the detailed biography to showcase where my hero has come from to reach his current position in music. I also enjoy the older eminem songs, its nice to visit a website that has these songs available to listen to and now know I'm not the only person who has access to this. The fact these are available makes this worth revisiting.
+
+2. As a casual listener of eminem I like that they have a videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it wouldnt be for me, but at least its on its own page and I can browse the other pages without getting into this.
+
+3. As a rap music enthusiast this seems like a nicely designed page with easy access to what I want. I can check out some of the Eminem songs I might not have heard yet and I like these tours photos its good to see this rapper is still out there touring. The discography section is really good I don't have all of these albums, I'll be sure to check them out.
+
+4. As a hip hop fan who enjoys going to rap concerts my google search brought me to the upcoming tour dates. I will definetely fill in the presale ticket form as I want to get these tickets. Also very nice that they have a competition page to win tickets, maybe I wont even have to pay for my mine!
+
+5. As a general music fan I like the minimal design of this website it is really easy to navigate around. I can find the music on one page, the huge autobiography gives me an insight into the artist, and I like these tour photos, there is a quite a few so this should could me engaged. Seems to be a competition for tickets, I might aswell apply because who wouldn't want to win free tickets to see Eminem.
+
 
 ## Wireframes
 
-Find below links for each wireframe, broken into each device mobile, tablet and desktop.
+Find below links for each wireframe I designed for each webpage, broken into each device mobile, tablet and desktop.
 
 * [Home Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-mobile-wireframe.png)/ 
 [Home Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-ipad-wireframe.png)/
