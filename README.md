@@ -23,4 +23,7 @@ Tour page has same navbar and social links and has 4 carousels at the top of the
 Competition page has a large image when you land of eminem with his fingers up, synomonous with this artist and his image for both new and hardcore fans. Placed on the final page almost as if goodbye and keep in tow with the home page being very minimal. The bottom half again has just another form to fill in to allow you to apply and win tickets to see the artist again more interaction. Same navbar and social links.
 
 
-https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-ipad-wireframe.png
+## Wireframes
+
+
+[Home Main page} https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-ipad-wireframe.png
