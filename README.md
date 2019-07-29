@@ -26,4 +26,4 @@ Competition page has a large image when you land of eminem with his fingers up, 
 ## Wireframes
 
 
-[Home Main page} https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-ipad-wireframe.png
+[Home Main page] https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/music-ipad-wireframe.png
