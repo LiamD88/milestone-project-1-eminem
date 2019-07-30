@@ -56,3 +56,23 @@ Find below links for each wireframe I designed for each webpage, broken into eac
 * [Competition Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-mobile-wireframe.png)/
 [Competition Tablet Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-ipad-wireframe.png)/
 [Competition Desktop Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/competition-desktop-wireframe.png)
+
+
+---
+
+## Features 
+
+### Home Page 
+The home page has 2 main features. The first is the hero image you see which is designed to capture the users attention and is the main point of this page. The next feature is the song lyrics under the hero image which fade in and out to create animation so as it is not completely static and feels like an interaction. When you go to mobile view only one of the song lyrics will display so as not to completely take over the screen and bog the user down too much.
+
+The home page is kept minimal with the idea to to encourage the user to click on the other pages and delve further into the website. It contains a navigation bar at the top of the page which highlights the current page you are on in red text and you can click each page without having to go back. It also contains a footer which has links to social sites for the artist on facebook, youtube, instagram and twitter. 
+
+### Biography Page
+The biography has 2 images as its main feature one in the top left corner and one in the bottom right hand corner when on larger screens. On mobile the top left image will stick to the top of the page before the text and the other image will display underneath the text. I am aware that it can seem like a lot of text for a user to take in but this is the point of this page it is about getting information about the artist. A lot of fans enjoy reading in this much detail and the ones who don't can have a quick breeze over it. I kept the same all black background with white text as the home page and this page contains the same navigation bar and footer as the home page.
+
+### Music Page
+The music page has 3 main features, the first being the discography which I placed in the center at the top of the page. The discography is placed in a carousel with images of all the eminem albums arranged in chronological order with the name of each album also displayed at the bottom of the carousel. You can click along making this an interactive feature for the user. The next feature is 4 youtube videos, on larger screens they are arranged with 2 videos side by side on top of 2 videos also side by side. On mobile devices it will be one video on top of another. Again another interactive feature for the user.
+
+The final feature is 4 songs that are playable at the bottom of the page
+
+
