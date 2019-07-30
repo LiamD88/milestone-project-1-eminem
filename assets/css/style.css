@@ -90,6 +90,23 @@
     height: 80vh;
 }
 
+/* tour page */
+
+.carousel-pad {
+    padding-right: 0;
+    padding-left: 0;
+
+}
+
+
+.carousel-inner.image-size {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 25em;
+    
+}
+
 /* text colors */
 
 /* eminem text in center screen */
