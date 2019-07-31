@@ -104,12 +104,6 @@
 }
 
 
-.carousel .image-size{
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    height: 25em;
-}
 
 @media (max-width: 768px) {
     
@@ -128,6 +122,15 @@
         overflow: hidden; 
         height: 13em;}
     
+    }
+
+    @media (min-width: 768px) {
+        .carousel .image-size{
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 25em;
+        }
     }
 
 
