@@ -4,6 +4,7 @@ I have created a website aimed towards Eminem fans. The target audience being ha
 The website will allow you to listen to songs and videos ranging from both the start of his career to the most recent of his catalogue. The user can enjoy
 photos from the tour and feel they can take part in this by either applying for presale tickets or the competition to actually go to a concert.
 
+[View webite on Github Pages](https://liamd88.github.io/milestone-project-1-eminem/)
 ---
 
 # UX
@@ -97,6 +98,21 @@ The competition page has 2 main features. The main image on this page is designe
  * [Google Fonts](https://fonts.google.com/) I imported a font style from here to use on my project.
  * [VSCode](https://code.visualstudio.com) This is the ide I used to build my project and I was able to save all my code in a local repository on here.
  * [GitHub](https://github.com/) I was able to upload my local repository here to store my project on a remote server.
- * [Font Awesome](https://fontawesome.com/ This was used so i could have the social link icons on my page.
- * [Javascript/JQuery](https://jquery.com/ This is used in conjunction with bootstrap to allow you to place things on your page that would normally require javascript knowledge.
+ * [Font Awesome](https://fontawesome.com/) This was used so i could have the social link icons on my page.
+ * [Javascript/JQuery](https://jquery.com/) This is used in conjunction with bootstrap to allow you to place things on your page that would normally require javascript knowledge.
 
+---
+
+### Credits
+ 
+## Content 
+* The code for the footer in my website is taken from the resume project I had to complete as part of the course.
+* Bootstrap - I used some documentation in here and the code allowed me to build my website quickly.
+* Eminem Biography (https://www.biography.com/musician/eminem) This is where i got the text for my biography page.
+* This is where I got the code for my music files to play on my page(https://www.w3schools.com/tags/tag_audio.asp)
+
+## Media 
+* All images on the webpage are from taken from Google
+
+#Acknowledgements
+* My mentor [Reuben Ferrante](https://github.com/arex18), his tips were invaluable in pushing me in the direction I needed to go to complete my project.
