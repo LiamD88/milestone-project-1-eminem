@@ -94,7 +94,7 @@ The competition page has 2 main features. The main image on this page is designe
 
  * HTML - This was used to structure the website and build the pages.
  * CSS - I used this to style the html code that was written and create a colourful project.
- * [Bootstrap](https://getbootstrap.com/) - A huge part of my project used to make my webpage responsive, to structure it correctly and add in carousels and forms and youtube videos etc.
+ * [Bootstrap](https://getbootstrap.com/)  A huge part of my project used to make my webpage responsive, to structure it correctly and add in carousels and forms and youtube videos etc.
  * [Google Fonts](https://fonts.google.com/) I imported a font style from here to use on my project.
  * [VSCode](https://code.visualstudio.com) This is the ide I used to build my project and I was able to save all my code in a local repository on here.
  * [GitHub](https://github.com/) I was able to upload my local repository here to store my project on a remote server.
@@ -108,11 +108,11 @@ The competition page has 2 main features. The main image on this page is designe
 ## Content 
 * The code for the footer in my website is taken from the resume project I had to complete as part of the course.
 * Bootstrap - I used some documentation in here and the code allowed me to build my website quickly.
-* Eminem Biography (https://www.biography.com/musician/eminem) This is where i got the text for my biography page.
-* This is where I got the code for my music files to play on my page(https://www.w3schools.com/tags/tag_audio.asp)
+* [Eminem Biography](https://www.biography.com/musician/eminem) This is where i got the text for my biography page.
+* [www.w3schools.com](https://www.w3schools.com/tags/tag_audio.asp) This is where I got the code for my music files to play on my page
 
 ## Media 
 * All images on the webpage are from taken from Google
 
-#Acknowledgements
+## Acknowledgements
 * My mentor [Reuben Ferrante](https://github.com/arex18), his tips were invaluable in pushing me in the direction I needed to go to complete my project.
