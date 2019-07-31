@@ -111,7 +111,7 @@ The competition page has 2 main features. The main image on this page is designe
 # Deployment
 ---
 I created this project using [VSCode](https://code.visualstudio.com). The code was written here on a local repository and then deployed to GitHub.
-To access the project on Github I would visit the GitHub webpage access my account and select LiamD88/milestone-project-1-eminem. On the next page I would click settings and scroll down the page to source and I would click master branch. With this selected the deployed website would know be available as a clickable link.
+To access the project on Github I would visit the GitHub webpage and select LiamD88/milestone-project-1-eminem. On the next page I would click settings and scroll down the page to source and I would click master branch. With this selected the deployed website would know be available as a clickable link.
 
 To deploy this repository locally you can clone your repository to create a local copy on your computer. To do this you must go to the main page of the repository and click clone/download under the repository name. In the clone with HTTPS section copy the clone URL and then open the terminal on your IDE. Change the working directory to the location you want the cloned directory to be. 
 Type git clone and then paste the URL you copied previously. Press enter and you clone will be created.
