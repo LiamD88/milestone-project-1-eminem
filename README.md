@@ -75,10 +75,10 @@ The music page has 3 main features, the first being the discography which I plac
 
 The final feature is 4 songs that are playable at the bottom of the page, in keeping the same as the youtube video layout they are arranged 2 side by side on top of the other 2 which will then be placed on top of each other on mobile view. The top half of the page is in black around the carousel keeping in line with the first 2 pages but the bottom half is a shade of grey to show the new section for music. This page also has the same navigation bar and footer as the previous ones.
 
-### Tour Page
+### Tour
 The tour page has 3 main features. The top half of the page contains 4 carousels with images from tours, you can you click through the images for interaction, there is also a list of upcoming tour dates below the carousels. There is a form you can fill in for presale tickets and again the same navigation bar and footer as the previous pages.
 
-### 
-
+### Competition
+The competition page has 2 main features. The main image on this page is designed as to have eminem with his fingers up for the final page which eminem fans will enjoy. The second feature is another form below to fill in which you can enter a competition to win free tickets and a meet and greet with eminem. Adding some interaction to the page, the same navigation bar and footer as the previous pages.
 
 
