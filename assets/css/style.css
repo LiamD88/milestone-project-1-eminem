@@ -105,26 +105,37 @@
 
 
 
-@media (max-width: 768px) {
-    
-.carousel .image-size{
-    position: relative;
-    width: 100%;
-    overflow: hidden; 
-    height: 13em;}
 
-}
-@media (min-width: 600px) {
+@media (min-width: 300px) {
     
     .carousel .image-size{
         position: relative;
         width: 100%;
         overflow: hidden; 
-        height: 13em;}
+        height: 11em;}
     
     }
 
     @media (min-width: 768px) {
+    
+        .carousel .image-size{
+            position: relative;
+            width: 100%;
+            overflow: hidden; 
+            height: 13em;}
+        
+        }
+
+    @media (min-width: 992px) {
+        .carousel .image-size{
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 18em;
+        }
+    }
+ 
+    @media (min-width: 1025px) {
         .carousel .image-size{
         position: relative;
         width: 100%;
@@ -132,6 +143,7 @@
         height: 25em;
         }
     }
+ 
 
 
 /* text colors */
