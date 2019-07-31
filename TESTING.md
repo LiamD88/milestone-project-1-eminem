@@ -9,10 +9,10 @@
 ---
 1. As a huge eminem fan I appreciate the detailed biography to showcase where my hero has come from to reach his current position in music. I also enjoy the older eminem songs, its nice to visit    a website that has these songs available to listen to and now know I'm not the only person who has access to this. The fact these are available makes this worth revisiting.
 
-        * The navigation bar is always displayed at the top of the page so user can access the biography page and music page with little effort.
-        * The biography page is quite detailed given a full backdrop of the artists life and musical career to cater for the bigger fans.
-        * The music page is clearly marked and the user can just scroll down to play any of the songs or youtube videos that are easily visible. 
-        * The home page contains lyrics easily visible as soon as you land on the page and some obscure one the more hardcore fans can enjoy.
+        - The navigation bar is always displayed at the top of the page so user can access the biography page and music page with little effort.
+        - The biography page is quite detailed given a full backdrop of the artists life and musical career to cater for the bigger fans.
+        - The music page is clearly marked and the user can just scroll down to play any of the songs or youtube videos that are easily visible. 
+        - The home page contains lyrics easily visible as soon as you land on the page and some obscure one the more hardcore fans can enjoy.
 
 2. As a casual listener of eminem I like that they have a videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it       wouldnt be for me, but at least its on its own page and I can browse the other pages without getting into this.
 
