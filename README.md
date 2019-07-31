@@ -105,7 +105,7 @@ The competition page has 2 main features. The main image on this page is designe
 
 # Testing 
 
-
+[TESTING.md](https://github.com/liamd88/user-centric-frontend-project/milestone-project-1-eminem/master/TESTING.md) This contains testing done for my project.
 
 
 
