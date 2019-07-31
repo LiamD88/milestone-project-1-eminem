@@ -115,7 +115,7 @@ The competition page has 2 main features. The main image on this page is designe
 * The code for the footer in my website is taken from the resume project I had to complete as part of the course.
 * Bootstrap - I used some documentation in here and the code allowed me to build my website quickly.
 * [Eminem Biography](https://www.biography.com/musician/eminem) This is where i got the text for my biography page.
-* [www.w3schools.com](https://www.w3schools.com/tags/tag_audio.asp) This is where I got the code for my music files to play on my page
+* [www.w3schools.com](https://www.w3schools.com/tags/tag_audio.asp) This is where I got the code for my music files to play on my page.
 
 ## Media 
 * All images on the webpage are from taken from Google
