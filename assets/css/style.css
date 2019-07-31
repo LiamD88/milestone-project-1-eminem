@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap:|');
+@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap:,200,700|');
 
 /* background colors */
 
@@ -20,6 +20,12 @@
 
 .tour-text-pad {
     padding-top: 25px;
+}
+
+.carousel-pad {
+    padding-right: 0;
+    padding-left: 0;
+
 }
 
 
@@ -95,55 +101,9 @@
     padding-right:10px;
 }
 
-/* tour page */
-
-.carousel-pad {
-    padding-right: 0;
-    padding-left: 0;
-
-}
 
 
 
-
-@media (min-width: 300px) {
-    
-    .carousel .image-size{
-        position: relative;
-        width: 100%;
-        overflow: hidden; 
-        height: 11em;}
-    
-    }
-
-    @media (min-width: 768px) {
-    
-        .carousel .image-size{
-            position: relative;
-            width: 100%;
-            overflow: hidden; 
-            height: 13em;}
-        
-        }
-
-    @media (min-width: 992px) {
-        .carousel .image-size{
-        position: relative;
-        width: 100%;
-        overflow: hidden;
-        height: 18em;
-        }
-    }
- 
-    @media (min-width: 1025px) {
-        .carousel .image-size{
-        position: relative;
-        width: 100%;
-        overflow: hidden;
-        height: 25em;
-        }
-    }
- 
 
 
 /* text colors */
@@ -199,6 +159,8 @@
 .music-text-2 {
     color: #000000;
     font-family: 'Overpass', sans-serif;
+    font-weight: 200;
+    
 }
 
 /* competition page text */
@@ -216,10 +178,13 @@
 .tour-text {
     color: #000000;
     font-family: 'Overpass', sans-serif;
+    font-weight: 700;
 }
 
 .text-size {
+    padding-top: 25px;
     font-size: 20px;
+    font-weight: 700;
 }
 
 /* keyframes */
@@ -232,6 +197,7 @@
         opacity: 1;
     }
 }
+
 
 
 /* footer */
@@ -259,3 +225,44 @@ footer {
 .social-links li a i:hover {
     color: #8B0000;
 }
+
+/* media queries */
+
+@media (min-width: 300px) {
+    
+    .carousel .image-size{
+        position: relative;
+        width: 100%;
+        overflow: hidden; 
+        height: 11em;}
+    
+    }
+
+    @media (min-width: 768px) {
+    
+        .carousel .image-size{
+            position: relative;
+            width: 100%;
+            overflow: hidden; 
+            height: 13em;}
+        
+        }
+
+    @media (min-width: 992px) {
+        .carousel .image-size{
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 18em;
+        }
+    }
+ 
+    @media (min-width: 1025px) {
+        .carousel .image-size{
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 25em;
+        }
+    }
+ 
