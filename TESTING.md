@@ -9,36 +9,33 @@
 ---
 1. As a huge eminem fan I appreciate the detailed biography to showcase where my hero has come from to reach his current position in music. I also enjoy the older eminem songs, its nice to visit    a website that has these songs available to listen to and now know I'm not the only person who has access to this. The fact these are available makes this worth revisiting.
 
-        * The navigation bar is always displayed at the top of the page so user can access the biography page and music page with little effort.
-
-        - The biography page is quite detailed given a full backdrop of the artists life and musical career to cater for the bigger fans.
-
-        - The music page is clearly marked and the user can just scroll down to play any of the songs or youtube videos that are easily visible. 
-
-        - The home page contains lyrics easily visible as soon as you land on the page and some obscure one the more hardcore fans can enjoy.
+    * The navigation bar is always displayed at the top of the page so user can access the biography page and music page with little effort.
+    * The biography page is quite detailed given a full backdrop of the artists life and musical career to cater for the bigger fans.
+    * The music page is clearly marked and the user can just scroll down to play any of the songs or youtube videos that are easily visible. 
+    * The home page contains lyrics easily visible as soon as you land on the page and some obscure one the more hardcore fans can enjoy.
 
 2. As a casual listener of eminem I like that they have a videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it       wouldnt be for me, but at least its on its own page and I can browse the other pages without getting into this.
 
-        * The pages are clearly labelled for the casual listener and with a click of the competition page the form to fill in to win tickets is easily visible and easy to fill in.
-        * The same with the music page being clearly labelled and easily accesible the user can listen to youtube videos of the artist with ease.
+    * The pages are clearly labelled for the casual listener and with a click of the competition page the form to fill in to win tickets is easily visible and easy to fill in.
+    * The same with the music page being clearly labelled and easily accesible the user can listen to youtube videos of the artist with ease.
 
 
 3. As a rap music enthusiast this seems like a nicely designed page with easy access to what I want. I can check out some of the Eminem songs I might not have heard yet and I like these tours       photos its good to see this rapper is still out there touring. The discography section is really good I don't have all of these albums, I'll be sure to check them out.
 
-        * The home page is designed to be asthetically pleasing on the eye for this user and he can click on the easily visible tour page and enjoy the photos that are in a carousels at the top    of the page.
-        * On the music page discography is easily clicked through at the top of the page and contains album covers with the name listed so they can look up the album with ease.
+    * The home page is designed to be asthetically pleasing on the eye for this user and he can click on the easily visible tour page and enjoy the photos that are in a carousels at the top    of the page.
+    * On the music page discography is easily clicked through at the top of the page and contains album covers with the name listed so they can look up the album with ease.
 
 4. As a hip hop fan who enjoys going to rap concerts my google search brought me to the upcoming tour dates. I will definetely fill in the presale ticket form as I want to get these tickets.        Also very nice that they have a competition page to win tickets, maybe I wont even have to pay for my mine!
 
-        * The tour page is visible on the navigation bar. There is form that is clearly visible on the bottom half of the screen to fill in to receive access to presale tickets.
-        * The competition page is one most people could click on and this user will be happy to fill in the form easily visible to enter a competition for tickets to a concert, the reason they 
+    * The tour page is visible on the navigation bar. There is form that is clearly visible on the bottom half of the screen to fill in to receive access to presale tickets.
+    * The competition page is one most people could click on and this user will be happy to fill in the form easily visible to enter a competition for tickets to a concert, the reason they 
           where on the page originally.
 
 5. As a general music fan I like the minimal design of this website it is really easy to navigate around. I can find the music on one page, the huge autobiography gives me an insight into the       artist, and I like these tour photos, there is a quite a few so this should could me engaged. Seems to be a competition for tickets, I might aswell apply because who wouldn't want to win free    tickets to see Eminem.
 
-        * The navigation bar is visible for this user to browse the different webpages to find something they like.
-        * The forms are easily filled in for competition.
-        * Carousels are quite interactive and easy to use.
+    * The navigation bar is visible for this user to browse the different webpages to find something they like.
+    * The forms are easily filled in for competition.
+    * Carousels are quite interactive and easy to use.
 
 
 ## Testing validity of code
