@@ -8,7 +8,7 @@ photos from the tour and feel they can take part in this by either applying for 
 ---
 
 # UX
-
+---
 The website design was created with the idea of the more hardcore eminem fans in mind and to allow any user to navigate easily through the website. 
 I chose a dark colour theme as I feel this is easier on the eyes and also fits in with the artist. The first 2 webpages home and biography have an all black appearance.
 the next 3 the music, tour and competition page are black in the upper section and a lighter gray below which allows the site to progress and to keep the theme and website progression consistent.
@@ -40,7 +40,7 @@ The website is aimed at eminem fans as a fanpage to cater for both new, old and 
 
 
 ## Wireframes
-
+---
 Find below links for each wireframe I designed for each webpage, broken into each device mobile, tablet and desktop.
 
 * [Home Mobile Page](https://raw.githubusercontent.com/LiamD88/milestone-project-1-eminem/master/assets/images/main-page-mobile-wireframe.png)/ 
@@ -62,8 +62,8 @@ Find below links for each wireframe I designed for each webpage, broken into eac
 
 ---
 
-## Features 
-
+# Features 
+---
 ### Home 
 The home page has 2 main features. The first is the hero image you see which is designed to capture the users attention and is the main point of this page. The next feature is the song lyrics under the hero image which fade in and out to create animation so as it is not completely static and feels like an interaction. When you go to mobile view only one of the song lyrics will display so as not to completely take over the screen and bog the user down too much.
 
@@ -90,8 +90,8 @@ The competition page has 2 main features. The main image on this page is designe
  * A section dedicated to song lyrics that people can read through.
  * A forum for fans to discuss music and the artist themself.
 
- ### Technologies Used
-
+ # Technologies Used
+---
  * HTML - This was used to structure the website and build the pages.
  * CSS - I used this to style the html code that was written and create a colourful project.
  * [Bootstrap](https://getbootstrap.com/)  A huge part of my project used to make my webpage responsive, to structure it correctly and add in carousels and forms and youtube videos etc.
@@ -100,11 +100,17 @@ The competition page has 2 main features. The main image on this page is designe
  * [GitHub](https://github.com/) I was able to upload my local repository here to store my project on a remote server.
  * [Font Awesome](https://fontawesome.com/) This was used so i could have the social link icons on my page.
  * [Javascript/JQuery](https://jquery.com/) This is used in conjunction with bootstrap to allow you to place things on your page that would normally require javascript knowledge.
-
+ * [Google](https:/https://www.google.ie//) This was an invaluable search tool with my project in helping me find solutions to problems I had.
 ---
 
-### Credits
- 
+# Testing 
+
+
+
+
+
+# Credits
+---
 ## Content 
 * The code for the footer in my website is taken from the resume project I had to complete as part of the course.
 * Bootstrap - I used some documentation in here and the code allowed me to build my website quickly.
