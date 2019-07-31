@@ -16,7 +16,7 @@ I used container-fluid a lot while building this website as I wanted the content
 
 Home page is kept minimal and features a sole image of eminem with lyrics fading in and out below, the lyrics range from some of his biggest hits that most listeners would know and then an obscure lyric from a song that only the most hardcore fans would know, making them feel intrigued even further by the site. There is a navigation bar at the top which highlights the text in red of the current page you are on and also at the bottom of the page links to social sites.
 
-Biography page has 3 images one in the top left and one in the middle and one on the bottom right for aesthetics again with the same navbar and social links. The biography gets very detailed, most hardcore fans would enjoy reading this and if a casual listener feels the need they can delve in and read up on the artists life and career from start to finish.
+Biography page has 3 images one in the top left, one in the middle and one on the bottom right for aesthetics again with the same navbar and social links. The biography gets very detailed, most hardcore fans would enjoy reading this and if a casual listener feels the need they can delve in and read up on the artists life and career from start to finish.
 
 Music page allows users to enjoy a carousel which displays the artists discography and you can click the images to browse again the same navbar and social links. There is 4 youtube videos which again will appease the more casual user. There are also 4 songs at the bottom of the page aimed at the more hardcore user and most casuals listeners won't have heard them.
 
