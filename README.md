@@ -99,14 +99,22 @@ The competition page has 2 main features. The main image on this page is designe
  * [VSCode](https://code.visualstudio.com) This is the ide I used to build my project and I was able to save all my code in a local repository on here.
  * [GitHub](https://github.com/) I was able to upload my local repository here to store my project on a remote server.
  * [Font Awesome](https://fontawesome.com/) This was used so i could have the social link icons on my page.
+ * [Auto Prefixer](https://autoprefixer.github.io/) This was used to check if my CSS was valid on all browsers.
  * [Javascript/JQuery](https://jquery.com/) This is used in conjunction with bootstrap to allow you to place things on your page that would normally require javascript knowledge.
  * [Google](https:/https://www.google.ie//) This was an invaluable search tool with my project in helping me find solutions to problems I had.
 ---
 
 # Testing 
-
+---
 [TESTING.md](https://github.com/LiamD88/milestone-project-1-eminem/blob/master/TESTING.md) This contains testing done for my project.
 
+# Deployment
+---
+I created this project using [VSCode](https://code.visualstudio.com). The code was written here on a local repository and then deployed to GitHub.
+To access the project on Github I would visit the GitHub webpage access my account and select LiamD88/milestone-project-1-eminem. On the next page I would click settings and scroll down the page to source and I would click master branch. With this selected the deployed website would know be available as a clickable link.
+
+To deploy this repository locally you can clone your repository to create a local copy on your computer. To do this you must go to the main page of the repository and click clone/download under the repository name. In the clone with HTTPS section copy the clone URL and then open the terminal on your IDE. Change the working directory to the location you want the cloned directory to be. 
+Type git clone and then paste the URL you copied previously. Press enter and you clone will be created.
 
 
 # Credits
@@ -119,6 +127,10 @@ The competition page has 2 main features. The main image on this page is designe
 
 ## Media 
 * All images on the webpage are from taken from Google
+* The music for the music players are mp3 files I had on my own computer that I uploaded to my IDE.
 
 ## Acknowledgements
 * My mentor [Reuben Ferrante](https://github.com/arex18), his tips were invaluable in pushing me in the direction I needed to go to complete my project.
+
+## Additional Note
+    On my github repo whenever I commit anything it displays my name twice. I'm not sure why. When I created my local repository in VS code it automatically recognised my details that are on my laptop and my details for when I pushed to github I think this has something to do with it but I just wanted to note this down.
