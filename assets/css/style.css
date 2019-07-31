@@ -104,13 +104,32 @@
 }
 
 
-.carousel-inner.image-size {
+.carousel .image-size{
     position: relative;
     width: 100%;
     overflow: hidden;
     height: 25em;
-    
 }
+
+@media (max-width: 768px) {
+    
+.carousel .image-size{
+    position: relative;
+    width: 100%;
+    overflow: hidden; 
+    height: 13em;}
+
+}
+@media (min-width: 600px) {
+    
+    .carousel .image-size{
+        position: relative;
+        width: 100%;
+        overflow: hidden; 
+        height: 13em;}
+    
+    }
+
 
 /* text colors */
 
