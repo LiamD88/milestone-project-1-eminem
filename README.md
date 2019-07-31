@@ -11,6 +11,7 @@ photos from the tour and feel they can take part in this by either applying for 
 The website design was created with the idea of the more hardcore eminem fans in mind and to allow any user to navigate easily through the website. 
 I chose a dark colour theme as I feel this is easier on the eyes and also fits in with the artist. The first 2 webpages home and biography have an all black appearance.
 the next 3 the music, tour and competition page are black in the upper section and a lighter gray below which allows the site to progress and to keep the theme and website progression consistent.
+I used container-fluid a lot while building this website as I wanted the content to fill the full width of the page.
 
 Home page is kept minimal and features a sole image of eminem with lyrics fading in and out below, the lyrics range from some of his biggest hits that most listeners would know and then an obscure lyric from a song that only the most hardcore fans would know, making them feel intrigued even further by the site. There is a navigation bar at the top which highlights the text in red of the current page you are on and also at the bottom of the page links to social sites.
 
@@ -81,4 +82,21 @@ The tour page has 3 main features. The top half of the page contains 4 carousels
 ### Competition
 The competition page has 2 main features. The main image on this page is designed as to have eminem with his fingers up for the final page which eminem fans will enjoy. The second feature is another form below to fill in which you can enter a competition to win free tickets and a meet and greet with eminem. Adding some interaction to the page, the same navigation bar and footer as the previous pages.
 
+
+### Future Features
+ * Adding a merchandise section so people can purchase music, t-shirts, vinyl records etc.
+ * Create a mailing list so people can get updates about any music or news regarding the artist coming out.
+ * A section dedicated to song lyrics that people can read through.
+ * A forum for fans to discuss music and the artist themself.
+
+ ### Technologies Used
+
+ * HTML - This was used to structure the website and build the pages.
+ * CSS - I used this to style the html code that was written and create a colourful project.
+ * [Bootstrap](https://getbootstrap.com/) - A huge part of my project used to make my webpage responsive, to structure it correctly and add in carousels and forms and youtube videos etc.
+ * [Google Fonts](https://fonts.google.com/) I imported a font style from here to use on my project.
+ * [VSCode](https://code.visualstudio.com) This is the ide I used to build my project and I was able to save all my code in a local repository on here.
+ * [GitHub](https://github.com/) I was able to upload my local repository here to store my project on a remote server.
+ * [Font Awesome](https://fontawesome.com/ This was used so i could have the social link icons on my page.
+ * [Javascript/JQuery](https://jquery.com/ This is used in conjunction with bootstrap to allow you to place things on your page that would normally require javascript knowledge.
 
