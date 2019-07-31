@@ -133,4 +133,4 @@ Type git clone and then paste the URL you copied previously. Press enter and you
 * My mentor [Reuben Ferrante](https://github.com/arex18), his tips were invaluable in pushing me in the direction I needed to go to complete my project.
 
 ## Additional Note
-    On my github repo whenever I commit anything it displays my name twice. I'm not sure why. When I created my local repository in VS code it automatically recognised my details that are on my laptop and my details for when I pushed to github I think this has something to do with it but I just wanted to note this down.
+* On my github repo whenever I commit anything it displays my name twice. I'm not sure why. When I created my local repository in VS code it automatically recognised my details that are on my  laptop and my details for when I pushed to github I think this has something to do with it but I just wanted to note this down.
