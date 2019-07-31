@@ -30,11 +30,11 @@ The website is aimed at eminem fans as a fan page to cater for both new, old and
 
 1. As a huge eminem fan I appreciate the detailed biography to showcase where my hero has come from to reach his current position in music. I also enjoy the older eminem songs, it's nice to visit a website that has these songs available to listen to and now know I'm not the only person who has access to this. The fact these are available makes this worth revisiting.
 
-2. As a casual listener of eminem I like that they have videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it wouldnt be for me, but at least its on its own page and I can browse the other pages without getting into this.
+2. As a casual listener of eminem I like that they have videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it wouldn't be for me, but at least its on its own page and I can browse the other pages without getting into this.
 
 3. As a rap music enthusiast this seems like a nicely designed page with easy access to what I want. I can check out some of the Eminem songs I might not have heard yet and I like these tours photos its good to see this rapper is still out there touring. The discography section is excellent I don't have all of these albums, I'll be sure to check them out.
 
-4. As a hip hop fan who enjoys going to rap concerts my google search brought me to the upcoming tour dates. I will definetely fill in the pre sale ticket form as I want to get these tickets. Also very nice that they have a competition page to win tickets, maybe I won't even have to pay for my mine!
+4. As a hip hop fan who enjoys going to rap concerts my google search brought me to the upcoming tour dates. I will definitely fill in the pre sale ticket form as I want to get these tickets. Also very nice that they have a competition page to win tickets, maybe I won't even have to pay for my mine!
 
 5. As a general music fan I like the minimal design of this website it is really easy to navigate around. I can find the music on one page, the huge autobiography gives me an insight into the artist, and I like these tour photos, there is a quite a few so this should keep me engaged. Seems to be a competition for tickets, I might as well apply because who wouldn't want to win free tickets to see Eminem.
 

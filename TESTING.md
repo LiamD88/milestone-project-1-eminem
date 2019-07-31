@@ -14,7 +14,7 @@
     * The music page is clearly marked and the user can just scroll down to play any of the songs or youtube videos that are easily visible. 
     * The home page contains lyrics easily visible as soon as you land on the page and some obscure one the more hardcore fans can enjoy.
 
-2. As a casual listener of eminem I like that they have videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it         wouldnt be for me, but at least its on its own page and I can browse the other pages without getting into this.
+2. As a casual listener of eminem I like that they have videos of some of his biggest hits I know and I can apply to win tickets to his upcoming shows. The biography seems very detailed, it         wouldn't be for me, but at least its on its own page and I can browse the other pages without getting into this.
 
     * The pages are clearly labelled for the casual listener and with a click of the competition page the form to fill in to win tickets is easily visible and easy to fill in.
     * The same with the music page being clearly labelled and easily accesible the user can listen to youtube videos of the artist with ease.
@@ -22,18 +22,17 @@
 
 3. As a rap music enthusiast this seems like a nicely designed page with easy access to what I want. I can check out some of the Eminem songs I might not have heard yet and I like these tours       photos its good to see this rapper is still out there touring. The discography section is excellent I don't have all of these albums, I'll be sure to check them out.
 
-    * The home page is designed to be asthetically pleasing on the eye for this user and he can click on the easily visible tour page and enjoy the photos that are in a carousels at the top    of the page.
-    * On the music page discography is easily clicked through at the top of the page and contains album covers with the name listed so they can look up the album with ease.
+    * The home page is designed to be aesthetically pleasing on the eye for this user and he can click on the easily visible tour page and enjoy the photos that are in carousels at the top of the page.
+    * On the music page discography is easily clicked through at the top of the page and contains album covers with the names listed so they can look up the album with ease.
 
-4. As a hip hop fan who enjoys going to rap concerts my google search brought me to the upcoming tour dates. I will definetely fill in the pre sale ticket form as I want to get these tickets.       Also very nice that they have a competition page to win tickets, maybe I won't even have to pay for my mine!
+4. As a hip hop fan who enjoys going to rap concerts my google search brought me to the upcoming tour dates. I will definitely fill in the pre sale ticket form as I want to get these tickets.       Also very nice that they have a competition page to win tickets, maybe I won't even have to pay for my mine!
 
-    * The tour page is visible on the navigation bar. There is form that is clearly visible on the bottom half of the screen to fill in to receive access to presale tickets.
-    * The competition page is one most people could click on and this user will be happy to fill in the form easily visible to enter a competition for tickets to a concert, the reason they 
-          where on the page originally.
+    * The tour page is visible on the navigation bar. There is form that is clearly visible on the bottom half of the screen to fill in to receive access to pre sale tickets.
+    * The competition page is one most people could click on and this user will be happy to fill in the form easily visible to enter a competition for tickets to a concert, the reason they were on the page originally.
 
 5. As a general music fan I like the minimal design of this website it is really easy to navigate around. I can find the music on one page, the huge autobiography gives me an insight into the       artist, and I like these tour photos, there is a quite a few so this should keep me engaged. Seems to be a competition for tickets, I might as well apply because who wouldn't want to win free    tickets to see Eminem.
 
-    * The navigation bar is visible for this user to browse the different webpages to find something they like.
+    * The navigation bar is visible for this user to browse the different web pages to find something they like.
     * The forms are easily filled in for competition.
     * Carousels are quite interactive and easy to use.
 
@@ -49,10 +48,10 @@
 
 1. The Navigation Bar 
     
-    * Viewing the home page on desktop it was fine the colour of the background was not dark enough so I had to add my own class to the navbar to change this.
+    * Viewing the home page on desktop it was fine the colour of the background was not dark enough, so I had to add my own class to the navbar to change this.
     * Each link was clicked to ensure they bring you to the correct page.
-    * I added a class to target the active link so that when you are on this page the text would display in red to hightlight this, whilst the other pages are in white.
-    * I checked the navbar in developer tools and initially in mobile view the burger menu icon would not display as I had deleted the original bootstrap dark class and input my own, it was        completely black like the navbar so I had what I done was I got the code again from bootstrap documentation. I used the bootstrap navbar dark and I then put my own class in with this and     it was now visible in mobile.
+    * I added a class to target the active link so that when you are on this page the text would display in red to highlight this, whilst the other pages are in white.
+    * I checked the navbar in developer tools and initially in mobile view the burger menu icon would not display as I had deleted the original bootstrap dark class and input my own, it was        completely black like the navbar so, I had what I done was I got the code again from bootstrap documentation. I used the bootstrap navbar dark and I then put my own class in with this and     it was now visible in mobile.
  
 2. Hero Image
 
@@ -65,7 +64,7 @@
 
 4.  Footer
 
-    * I had taken the footer code from the resume project and I added in my own colours to the css classes. I tested this by hovering over the links in desktop to see the colour change. The        colour wouldnt change in smaller screen sizes. I also tested the links added to ensure they worked when clicked on all devices sizes and had no issues.
+    * I had taken the footer code from the resume project and I added in my own colours to the css classes. I tested this by hovering over the links in desktop to see the colour change. The        colour wouldn't change in smaller screen sizes. I also tested the links added to ensure they worked when clicked on all devices sizes and had no issues.
 
 
 #### Biography Page
@@ -80,16 +79,16 @@
 
 3. Paragraphs
 
-    * I played around a lot with this positiong the paragraphs in different ways and testing the responsiveness through developer tools. I centered the text and changed the font style. It          displays perfectly in mobile view. I have an issue with it on larger screen sizes where it has left a small amount of space visible under the image at the top left of screen. 
+    * I played around a lot with this positioning the paragraphs in different ways and testing the responsiveness through developer tools. I centered the text and changed the font style. It          displays perfectly in mobile view. I have an issue with it on larger screen sizes where it has left a small amount of space visible under the image at the top left of screen. 
     * I tested its responsiveness around the images and it fits nicely on all devices but again can have a slight issue on XL screen sizes.
 
-4. Center image
+4. Center Image
 
     * This was added late in the project and was used to break up the paragraph text. I set it in a container and it fits nicely on the page and in other device sizes, checked again with           developer tools.
 
 5. Bottom Right Image  
 
-    * Again initially this was implemented with a float right class and I didn't like how it responded with different screen sizes. I ultimately placed it at the bottom of the paragraphs and       tested with developer tools and now fits nicely from mobile up. Opacticy was changed with a class as I felt it sat better on page.
+    * Again initially this was implemented with a float right class and I didn't like how it responded with different screen sizes. I ultimately placed it at the bottom of the paragraphs and       tested with developer tools and now fits nicely from mobile up. Opacity was changed with a class as I felt it sat better on page.
 
 6. Footer 
 
@@ -103,12 +102,11 @@
 
 2. Discography Carousel
 
-    * This worked fine initially with all images and text added, the only issue was it was too large on all device sizes and didnt look aesthetically pleasing. I added my own class to change the 
-      margins, width and height. Now it sits nicely at the top of the page in the middle of the screen and doesnt take up too much real estate. Checked in developer tools all screen sizes.
+    * This worked fine initially with all images and text added, the only issue was it was too large on all device sizes and didn't look aesthetically pleasing. I added my own class to change the margins, width and height. Now it sits nicely at the top of the page in the middle of the screen and doesn't take up too much real estate. Checked in developer tools all screen sizes.
 
 3. Youtube Videos
 
-    * The videos originally didn't work in my local IDE and I thought there was an error with this. With further testing the played in the github repository so they stayed. I tested on all         screen sizes and decided to place them on top of each other on mobile and 2 side by side on larger screens. Padding was removed so they would fill out to the side of the screen.
+    * The videos originally didn't work in my local IDE and I thought there was an error with this. With further testing the played in the github repository, so they stayed. I tested on all         screen sizes and decided to place them on top of each other on mobile and 2 side by side on larger screens. Padding was removed so they would fill out to the side of the screen.
 
 4. Music player
 
@@ -127,7 +125,7 @@
 
 2. Carousels At Top 
 
-    * I had a lot of issues trying to get the carousels to display correctly on all devices. Initally they displayed fine but when the next image came up the image would change in size causing a   bad user experience. On mobile devices the gaps where huge between the carousels. After a lot of testing on developer tools and with the different sizes I solved the problem by targeting     the carousel inner class with my own class to affect the height of the carousel. I then applied media queries for each device. Through a lot of testing in developer tools I was able to       apply 4 different media queries which allowed the carousels to display side by side with no jumps and on all devices. 
+    * I had a lot of issues trying to get the carousels to display correctly on all devices. Initially they displayed fine but when the next image came up the image would change in size causing a   bad user experience. On mobile devices the gaps where huge between the carousels. After a lot of testing on developer tools and with the different sizes I solved the problem by targeting     the carousel inner class with my own class to affect the height of the carousel. I then applied media queries for each device. Through a lot of testing in developer tools I was able to       apply 4 different media queries which allowed the carousels to display side by side with no jumps and on all devices. 
 
 3. Tour Dates
 
@@ -150,7 +148,7 @@
 
 2. Hero Image
 
-    * This was initally causing me problems as I just placed the image on the page and it just was too big. I fixed the issue by applying the same idea I had with hero image on the home page.
+    * This was initially causing me problems as I just placed the image on the page and it just was too big. I fixed the issue by applying the same idea I had with hero image on the home page.
       The image was added to the page with a class and added on my css page. This allowed the image to stretch on larger screens and center on smaller devices. Tested again in developer tools and no issues.
 
 3. Competition Text 
