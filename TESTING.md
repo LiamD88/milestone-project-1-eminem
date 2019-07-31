@@ -2,7 +2,7 @@
 ---
 [View webite on Github Pages](https://liamd88.github.io/milestone-project-1-eminem/)
 
-[Main README File](https://github.com/liamd88/user-centric-frontend-project/milestone-project-1-eminem/master/README.md)
+[Main README File](https://github.com/LiamD88/milestone-project-1-eminem/blob/master/README.md)
 
 
 ## Testing user stories
