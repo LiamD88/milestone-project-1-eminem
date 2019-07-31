@@ -68,7 +68,7 @@ The home page has 2 main features. The first is the hero image you see which is 
 The home page is kept minimal with the idea to to encourage the user to click on the other pages and delve further into the website. It contains a navigation bar at the top of the page which highlights the current page you are on in red text and you can click each page without having to go back. It also contains a footer which has links to social sites for the artist on facebook, youtube, instagram and twitter. 
 
 ### Biography
-The biography page has 2 images as its main feature one in the top left corner and one in the bottom right hand corner when on larger screens. On mobile the top left image will stick to the top of the page before the text and the other image will display underneath the text. I am aware that it can seem like a lot of text for a user to take in but this is the point of this page it is about getting information about the artist. A lot of fans enjoy reading in this much detail and the ones who don't can have a quick breeze over it. I kept the same all black background with white text as the home page and this page contains the same navigation bar and footer as the home page.
+The biography page has 3 images as its main feature one in the top left corner , in the middle of the page and one in the bottom right hand corner when on larger screens. On mobile the top left image will stick to the top of the page before the text, the middle image between paragraphs and the final image will display underneath the text. I am aware that it can seem like a lot of text for a user to take in but this is the point of this page it is about getting information about the artist. A lot of fans enjoy reading in this much detail and the ones who don't can have a quick breeze over it. I kept the same all black background with white text as the home page and this page contains the same navigation bar and footer as the home page.
 
 ### Music
 The music page has 3 main features, the first being the discography which I placed in the center at the top of the page. The discography is placed in a carousel with images of all the eminem albums arranged in chronological order with the name of each album also displayed at the bottom of the carousel. You can click along making this an interactive feature for the user. The next feature is 4 youtube videos, on larger screens they are arranged with 2 videos side by side on top of 2 videos also side by side. On mobile devices it will be one video on top of another. Again another interactive feature for the user.
@@ -76,7 +76,9 @@ The music page has 3 main features, the first being the discography which I plac
 The final feature is 4 songs that are playable at the bottom of the page, in keeping the same as the youtube video layout they are arranged 2 side by side on top of the other 2 which will then be placed on top of each other on mobile view. The top half of the page is in black around the carousel keeping in line with the first 2 pages but the bottom half is a shade of grey to show the new section for music. This page also has the same navigation bar and footer as the previous ones.
 
 ### Tour Page
-The tour page has 2 main features. The top half of the page contains 4 carousels with images from tours, you ca
+The tour page has 3 main features. The top half of the page contains 4 carousels with images from tours, you can you click through the images for interaction, there is also a list of upcoming tour dates below the carousels. There is a form you can fill in for presale tickets and again the same navigation bar and footer as the previous pages.
+
+### 
 
 
 
