@@ -106,7 +106,7 @@
 
 3. Youtube Videos
 
-    * The videos originally didn't work in my local IDE and I thought there was an error with this. With further testing the played in the github repository, so they stayed. I tested on all         screen sizes and decided to place them on top of each other on mobile and 2 side by side on larger screens. Padding was removed so they would fill out to the side of the screen.
+    * The videos originally didn't work in my local IDE and I thought there was an error with this. With further testing they played in the github repository, so they stayed. I tested on all         screen sizes and decided to place them on top of each other on mobile and 2 side by side on larger screens. Padding was removed so they would fill out to the side of the screen.
 
 4. Music player
 
